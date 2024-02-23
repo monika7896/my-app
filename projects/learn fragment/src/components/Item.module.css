@@ -4,9 +4,11 @@
   
   .kg-span {
     font-weight: 500;
-    color: rgb(64, 0, 255);
+    color: rgb(6, 3, 15);
   }
   
   .button {
     float: right;
+    background-color: rgb(112, 160, 112);
+    border-radius: 15%;
   }
